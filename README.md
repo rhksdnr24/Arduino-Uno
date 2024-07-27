@@ -11,4 +11,4 @@ Welcome to the Arduino Projects repository! This repository contains various Ard
 
 ### Overview
 
-Each chapter will generally include a PNG file depicting the circuit and an Arduino file.
+Each chapter will generally include a PNG file depicting the circuit, an Arduino file and demo video.
